@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656509935151",
+    "project_id": "mystock-4a586",
+    "storage_bucket": "mystock-4a586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656509935151:android:708bacb92723bab0d6b0da",
+        "android_client_info": {
+          "package_name": "com.labdispmoveis.mystock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656509935151-6ksf1140972pg686906822qapqsimq5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUQmtKUn23m_6gLMAYAl8NDj1ugrt2UI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656509935151-6ksf1140972pg686906822qapqsimq5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

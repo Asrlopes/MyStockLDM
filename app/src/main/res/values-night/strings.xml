@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="total_products">Total de 50 produtos</string>
+    <string name="list_of_products">Lista de Produtos</string>
+</resources>
